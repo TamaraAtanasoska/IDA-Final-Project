@@ -26,9 +26,17 @@ TODO: Commands to run and example
 
 ## Analysis
 
-### Algorithms
+### Algorithms/Models
 
-TODO: Listing all algos as options. Subdivision for any normalisation etc.
+The course aims to demistify the basic machine learning algorithms, look into their mathematical representations and discuss their usage. I have picked 5 of the algorithms featured in the course. In the respective sections below, I will discuss each of the algorithm/model specifics. These descriptions won't contain how these algorithms/models relate to the project data and the results after running them. This is discussed in detail in the [Discussion](#discussion) section below. 
+
+TODO: Subdivision for any normalisation etc.
+
+### Decision Trees
+### Linear classification
+### Logistic regression
+### Kernel methods
+### Neural Networks
 
 ### Evaluation
 
