@@ -40,11 +40,11 @@ The course aims to demistify the basic machine learning algorithms, look into th
 
 TODO: Subdivision for any normalisation etc.
 
-### Decision Trees
-### Linear classification
-### Logistic regression
-### Kernel methods
-### Neural Networks
+#### Decision Trees
+#### Linear classification
+#### Logistic regression
+#### Kernel methods
+#### Neural Networks
 
 ### Evaluation
 
