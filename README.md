@@ -3,7 +3,7 @@ This repository contains the final project for the  "Intelligent Data Analysis a
 
 The aim of the project is to find the profiles of customers that would be interesting in obtaining caravan insurance. The data contains 86 different categories of information about the customers. 
 
-The data and goals of the projects were taken from a list proposed by the course administrators. 
+The data and goals of the projects were taken from a list proposed by the course administrators. The project was submitted in SoSe 2022. 
 
 ## Methods
 
