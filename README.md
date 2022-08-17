@@ -22,6 +22,14 @@ In the folder ```setup/``` you can find the respective environment replication a
 
 ### How to use
 
+You can pick the data location, the mode, the model and the evaluation method you would like to run. Below is a list of all the commandline options, and their possible variations in the comment line.
+```
+--data-dir <path-to-data>
+--mode <mode> #train, test, compare
+--model <model> #dec-tree, lin-class, log-reg, kernel, nn
+--ev TODO: pick ev methods
+```
+
 TODO: Commands to run and example 
 
 ## Analysis
