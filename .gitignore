@@ -130,3 +130,6 @@ dmypy.json
 
 # Mvim 
 *.swp
+
+#System
+.DS_Store
