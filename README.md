@@ -6,6 +6,7 @@ The aim of the project is to find the profiles of customers that would be intere
 The data and goals of the projects were taken from a list proposed by the course administrators. The project was submitted in SoSe 2022. 
 
 The whole project is contained [in this notebook for the time being](project.ipynb).
+See the presentaton with a summary [here](https://github.com/TamaraAtanasoska/IDA-Final-Project/blob/main/Insurance%20sales%20leads%20data%20analysis.pdf).
 
 ## Setup and usage
 
