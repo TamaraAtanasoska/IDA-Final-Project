@@ -42,6 +42,8 @@ dependencies:
     - fastjsonschema==2.16.2
     - fonttools==4.37.4
     - idna==3.4
+    - imbalanced-learn==0.9.1
+    - imblearn==0.0
     - ipykernel==6.16.0
     - ipython==8.5.0
     - ipython-genutils==0.2.0
@@ -110,4 +112,5 @@ dependencies:
     - wcwidth==0.2.5
     - webencodings==0.5.1
     - websocket-client==1.4.1
+    - xgboost==1.6.2
 prefix: /Users/tamara/opt/miniconda3/envs/IDA
